@@ -21,12 +21,6 @@
     <remove-project name="LineageOS/android_hardware_qcom_thermal"/>
     <remove-project name="LineageOS/android_hardware_qcom_vr"/>
     <remove-project name="LineageOS/android_hardware_qcom_wlan"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_libfmjni"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_power"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_thermal-engine"/>
     <remove-project name="LineageOS/android_vendor_nxp_opensource_halimpl"/>
     <remove-project name="LineageOS/android_vendor_nxp_opensource_hidlimpl"/>
     <remove-project name="LineageOS/android_hardware_qcom_sdm845_display"/>
