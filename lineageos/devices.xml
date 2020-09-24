@@ -10,18 +10,18 @@
 
     <!--TAMA-->
     <remove-project name="device-sony-akari"/>
-    <project path="device/sony/akari" name="device_sony_akari" remote="RR-OpenDevices" revision="master"/>
+    <project path="device/sony/akari" name="device-sonyakari" remote="RR-OpenDevices" revision="master"/>
     <remove-project name="device-sony-apollo"/>
-    <project path="device/sony/apollo" name="device_sony_apollo" remote="RR-OpenDevices" revision="master"/>
+    <project path="device/sony/apollo" name="device-sony-apollo" remote="RR-OpenDevices" revision="master"/>
     <remove-project name="device-sony-akatsuki"/>
-    <project path="device/sony/akatsuki" name="device_sony_akatsuki" remote="RR-OpenDevices" revision="ten"/>
+    <project path="device/sony/akatsuki" name="device-sony-akatsuki" remote="RR-OpenDevices" revision="ten"/>
     <!--NILE-->
     <remove-project name="device-sony-pioneer"/>
-    <project path="device/sony/pioneer" name="device_sony_pioneer" remote="RR-OpenDevices" revision="ten"/>
+    <project path="device/sony/pioneer" name="device-sony-pioneer" remote="RR-OpenDevices" revision="ten"/>
     <remove-project name="device-sony-voyager"/>
-    <project path="device/sony/voyager" name="device_sony_voyager" remote="RR-OpenDevices" revision="master"/>
+    <project path="device/sony/voyager" name="device-sony-voyager" remote="RR-OpenDevices" revision="master"/>
     <remove-project name="device-sony-discovery"/>
-    <project path="device/sony/discovery" name="device_sony_discovery" remote="RR-OpenDevices" revision="master"/>
+    <project path="device/sony/discovery" name="device-sony-discovery" remote="RR-OpenDevices" revision="master"/>
 
     <!-- Add some LineageOS extras -->
     <include name="local_manifests/lineageos/extras.xml"/>
