@@ -10,7 +10,7 @@
 
     <!--TAMA-->
     <remove-project name="device-sony-akari"/>
-    <project path="device/sony/akari" name="device-sonyakari" remote="RR-OpenDevices" revision="master"/>
+    <project path="device/sony/akari" name="device-sony-akari" remote="RR-OpenDevices" revision="master"/>
     <remove-project name="device-sony-apollo"/>
     <project path="device/sony/apollo" name="device-sony-apollo" remote="RR-OpenDevices" revision="master"/>
     <remove-project name="device-sony-akatsuki"/>
